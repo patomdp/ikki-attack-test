@@ -1,2 +1,3 @@
-# ikki-attackudk4y
-WebAR project. Needs Camera and trigger image
+# ikki-attack
+WebAR project. Character animation.
+Needs Camera access and trigger image located in assets folder.
